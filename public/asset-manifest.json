@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8aeece6.css",
+    "main.js": "/static/js/main.be83fe79.js",
+    "static/js/787.14559350.chunk.js": "/static/js/787.14559350.chunk.js",
+    "static/media/2.jpg": "/static/media/2.229f5af424ac69433717.jpg",
+    "static/media/6.jpg": "/static/media/6.66656fe26c3b75faf03a.jpg",
+    "static/media/4.jpg": "/static/media/4.9f3fb40e26af94c33020.jpg",
+    "static/media/5.jpg": "/static/media/5.bed9487fdb78793408f6.jpg",
+    "static/media/3.jpg": "/static/media/3.ec15af73da9fb1dfc0fa.jpg",
+    "static/media/1.jpg": "/static/media/1.d818963c932ced7ed414.jpg",
+    "static/media/weth.png": "/static/media/weth.4101f1dacb92484cfd3f.png",
+    "static/media/cryptopunk-logo.png": "/static/media/cryptopunk-logo.8bee49d57faa44bb66f5.png",
+    "static/media/OwnerImage.jpg": "/static/media/OwnerImage.2b45dc890b7576222226.jpg",
+    "index.html": "/index.html",
+    "main.f8aeece6.css.map": "/static/css/main.f8aeece6.css.map",
+    "main.be83fe79.js.map": "/static/js/main.be83fe79.js.map",
+    "787.14559350.chunk.js.map": "/static/js/787.14559350.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8aeece6.css",
+    "static/js/main.be83fe79.js"
+  ]
+}
